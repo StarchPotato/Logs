@@ -1,0 +1,936 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "4k_planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-ironclad",
+      "enabled": true
+    },
+    
+    {
+      "name": "Accumulator-V2",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes-tree-compat",
+      "enabled": true
+    },
+    
+    {
+      "name": "aquilo-seabloom-algaculture",
+      "enabled": true
+    },
+    
+    {
+      "name": "Arcanyx",
+      "enabled": true
+    },
+    
+    {
+      "name": "ArcanyxAssets",
+      "enabled": true
+    },
+    
+    {
+      "name": "ArmouredBiters",
+      "enabled": true
+    },
+    
+    {
+      "name": "astroponics",
+      "enabled": true
+    },
+    
+    {
+      "name": "auto-barrel",
+      "enabled": true
+    },
+    
+    {
+      "name": "AutoDeconstruct",
+      "enabled": true
+    },
+    
+    {
+      "name": "belttracer",
+      "enabled": true
+    },
+    
+    {
+      "name": "better-victory-screen",
+      "enabled": true
+    },
+    
+    {
+      "name": "Better_Starmap_Background",
+      "enabled": true
+    },
+    
+    {
+      "name": "bioprocessing-tab",
+      "enabled": true
+    },
+    
+    {
+      "name": "blueprint_reader",
+      "enabled": true
+    },
+    
+    {
+      "name": "bplib",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "castra",
+      "enabled": true
+    },
+    
+    {
+      "name": "celestial-weather",
+      "enabled": true
+    },
+    
+    {
+      "name": "cerys-lunaponics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cerys-Moon-of-Fulgora",
+      "enabled": true
+    },
+    
+    {
+      "name": "cf-lib",
+      "enabled": true
+    },
+    
+    {
+      "name": "change-recipe-quality-without-re-selecting-recipe",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cloning-vat-building",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cold_biters",
+      "enabled": true
+    },
+    
+    {
+      "name": "colorful_biochamber",
+      "enabled": true
+    },
+    
+    {
+      "name": "common-prototypes",
+      "enabled": true
+    },
+    
+    {
+      "name": "common-prototypes-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "corrundum",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cosmic-Social-Distancing",
+      "enabled": true
+    },
+    
+    {
+      "name": "crushing-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "crushing-industry-compatibility",
+      "enabled": true
+    },
+    
+    {
+      "name": "crushing-industry-productivity-research",
+      "enabled": true
+    },
+    
+    {
+      "name": "cubium",
+      "enabled": true
+    },
+    
+    {
+      "name": "Custom-Production-UI-Fixed",
+      "enabled": true
+    },
+    
+    {
+      "name": "dea-dia-system",
+      "enabled": true
+    },
+    
+    {
+      "name": "DiscoScience",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-pipes",
+      "enabled": true
+    },
+    
+    {
+      "name": "enhanced-shadows",
+      "enabled": true
+    },
+    
+    {
+      "name": "est-tiny-storage-tank",
+      "enabled": true
+    },
+    
+    {
+      "name": "fdsl",
+      "enabled": true
+    },
+    
+    {
+      "name": "FilterHelper",
+      "enabled": true
+    },
+    
+    {
+      "name": "finely-crafted-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
+      "enabled": true
+    },
+    
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "fruitProcessingProductivity-S",
+      "enabled": true
+    },
+    
+    {
+      "name": "fulgora-coralmium-agriculture",
+      "enabled": true
+    },
+    
+    {
+      "name": "FusionPoweredRobots",
+      "enabled": true
+    },
+    
+    {
+      "name": "ghosts-do-not-kick-you-out-of-their-gui",
+      "enabled": true
+    },
+    
+    {
+      "name": "gleba-water-cane",
+      "enabled": true
+    },
+    
+    {
+      "name": "hd_planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "hd_planets_renders",
+      "enabled": true
+    },
+    
+    {
+      "name": "Honk",
+      "enabled": true
+    },
+    
+    {
+      "name": "Igrys",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "inserter-throughput",
+      "enabled": true
+    },
+    
+    {
+      "name": "InserterFuelLeech",
+      "enabled": true
+    },
+    
+    {
+      "name": "Inter-Platform-Logistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "interstellar-travel",
+      "enabled": true
+    },
+    
+    {
+      "name": "IridescentIndustry",
+      "enabled": true
+    },
+    
+    {
+      "name": "krastorio2-assets-ultracube",
+      "enabled": true
+    },
+    
+    {
+      "name": "Krastorio2Assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "lex-aircraft",
+      "enabled": true
+    },
+    
+    {
+      "name": "lignumis",
+      "enabled": true
+    },
+    
+    {
+      "name": "lignumis-alien-biomes-compat",
+      "enabled": true
+    },
+    
+    {
+      "name": "lignumis-assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "linox",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogiNetChannels",
+      "enabled": true
+    },
+    
+    {
+      "name": "logistics-insights",
+      "enabled": true
+    },
+    
+    {
+      "name": "Long_Range_Delivery_Drones",
+      "enabled": true
+    },
+    
+    {
+      "name": "long_stack_inserter",
+      "enabled": true
+    },
+    
+    {
+      "name": "machine-upgrades",
+      "enabled": true
+    },
+    
+    {
+      "name": "maraxsis",
+      "enabled": true
+    },
+    
+    {
+      "name": "matter_printer",
+      "enabled": true
+    },
+    
+    {
+      "name": "metal-and-stars",
+      "enabled": true
+    },
+    
+    {
+      "name": "metal-and-stars-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "metal-and-stars-graphics-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-buildings",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-buildings-graphics-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-core",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-logistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "mf-logistics-graphics-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "Milestones",
+      "enabled": true
+    },
+    
+    {
+      "name": "minimalist-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "Moshine",
+      "enabled": true
+    },
+    
+    {
+      "name": "Moshine-assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "moshine-solaponics",
+      "enabled": true
+    },
+    
+    {
+      "name": "multispoil",
+      "enabled": true
+    },
+    
+    {
+      "name": "muluna-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "muluna-utility-constants",
+      "enabled": true
+    },
+    
+    {
+      "name": "MxlChievements",
+      "enabled": true
+    },
+    
+    {
+      "name": "new-diagonal-inserter",
+      "enabled": true
+    },
+    
+    {
+      "name": "nixie-tubes",
+      "enabled": true
+    },
+    
+    {
+      "name": "no-remote-view-border",
+      "enabled": true
+    },
+    
+    {
+      "name": "orbital-transfer",
+      "enabled": true
+    },
+    
+    {
+      "name": "panglia_planet",
+      "enabled": true
+    },
+    
+    {
+      "name": "panglia_planet_assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "Paracelsin",
+      "enabled": true
+    },
+    
+    {
+      "name": "Paracelsin-Graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "pirateship",
+      "enabled": true
+    },
+    
+    {
+      "name": "planet-muluna",
+      "enabled": true
+    },
+    
+    {
+      "name": "planet-rabbasca",
+      "enabled": true
+    },
+    
+    {
+      "name": "planetaris-arig",
+      "enabled": true
+    },
+    
+    {
+      "name": "planetaris-hyarion",
+      "enabled": true
+    },
+    
+    {
+      "name": "planetaris-unbounded",
+      "enabled": true
+    },
+    
+    {
+      "name": "planetaris-unbounded-assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "PlanetsLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "PlanetsLibTiers",
+      "enabled": true
+    },
+    
+    {
+      "name": "pollution-as-surface-property",
+      "enabled": true
+    },
+    
+    {
+      "name": "power-grid-comb",
+      "enabled": true
+    },
+    
+    {
+      "name": "productivity-technology-limit",
+      "enabled": false
+    },
+    
+    {
+      "name": "pump",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality-down-binning",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality-heat-pipes",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality-upgrade-planner",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality_glassware",
+      "enabled": true
+    },
+    
+    {
+      "name": "rabbasca-assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "RealisticReactorGlow",
+      "enabled": true
+    },
+    
+    {
+      "name": "rec-blue-plus",
+      "enabled": true
+    },
+    
+    {
+      "name": "RecipeBook",
+      "enabled": true
+    },
+    
+    {
+      "name": "Redrawn-Space-Connections",
+      "enabled": true
+    },
+    
+    {
+      "name": "Research_Control_Combinator_Updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "Robocharger-Updated",
+      "enabled": true
+    },
+    
+    {
+      "name": "RocketCargoInsertion",
+      "enabled": true
+    },
+    
+    {
+      "name": "rubia",
+      "enabled": true
+    },
+    
+    {
+      "name": "rubia-assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "rubia-minus-memes",
+      "enabled": true
+    },
+    
+    {
+      "name": "se-space-trains",
+      "enabled": true
+    },
+    
+    {
+      "name": "secretas",
+      "enabled": true
+    },
+    
+    {
+      "name": "segmented-units-territory-renderings",
+      "enabled": true
+    },
+    
+    {
+      "name": "sharper_planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "Shortcuts-ick",
+      "enabled": true
+    },
+    
+    {
+      "name": "simultaneous-research",
+      "enabled": true
+    },
+    
+    {
+      "name": "skewer_planet_vesta",
+      "enabled": true
+    },
+    
+    {
+      "name": "skewer_planet_vesta_assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "skewer_planet_vesta_assets_2",
+      "enabled": true
+    },
+    
+    {
+      "name": "skewer_shattered_planet",
+      "enabled": true
+    },
+    
+    {
+      "name": "skewer_shattered_planet_assets",
+      "enabled": true
+    },
+    
+    {
+      "name": "slp-dyson-sphere-reworked",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz-big-accumulator",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz-big-solar-panel",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz_better_asteroid_collector",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz_better_substation",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz_long_electric_gun_turret",
+      "enabled": true
+    },
+    
+    {
+      "name": "snouz_space_platform_hull",
+      "enabled": true
+    },
+    
+    {
+      "name": "SolarMatrix",
+      "enabled": true
+    },
+    
+    {
+      "name": "some-corpsemarker",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-3",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-4",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-5",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-platform-graveyard",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpidertronEnhancements",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpidertronPatrols",
+      "enabled": true
+    },
+    
+    {
+      "name": "Tapeline",
+      "enabled": true
+    },
+    
+    {
+      "name": "TaskList",
+      "enabled": true
+    },
+    
+    {
+      "name": "tenebris-prime",
+      "enabled": true
+    },
+    
+    {
+      "name": "terrapalus",
+      "enabled": true
+    },
+    
+    {
+      "name": "textplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "thinking_brain",
+      "enabled": true
+    },
+    
+    {
+      "name": "tile-upgrade-planner-muluna",
+      "enabled": true
+    },
+    
+    {
+      "name": "tooltip-opacity",
+      "enabled": true
+    },
+    
+    {
+      "name": "valerian-planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "visible-planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "visible-planets-settings",
+      "enabled": true
+    },
+    
+    {
+      "name": "Voidcraft",
+      "enabled": true
+    },
+    
+    {
+      "name": "VoidProcessing",
+      "enabled": true
+    },
+    
+    {
+      "name": "vp-scale",
+      "enabled": true
+    },
+    
+    {
+      "name": "vulcanus-sulfuric-bacteria",
+      "enabled": true
+    },
+    
+    {
+      "name": "wagons-quality-raises-capacity",
+      "enabled": true
+    },
+    
+    {
+      "name": "wayward-seas",
+      "enabled": true
+    },
+    
+    {
+      "name": "Wood-Walls",
+      "enabled": true
+    },
+    
+    {
+      "name": "YAPR",
+      "enabled": true
+    }
+  ]
+}
